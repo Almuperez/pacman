@@ -2,7 +2,7 @@
   <img src="https://api.brandy.run/core/logo" width="100" title="coreof.tech" alt="coreof.tech">
 </a>
 
-# Exercises W4D3 - Canvas
+# pacman
 
 Sobre el código del Pacman creado en clase vamos a hacer un par de añadidos: `keyUp` y `keyDown` para que Pacman se desplace por el eje de las Y y pintaremos un laberinto como imagen de fondo del canvas.
 
